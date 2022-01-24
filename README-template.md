@@ -1,110 +1,77 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Hub de desafio do componente de resumo do pedido
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Esta é uma solução para o [desafio do componente de código QR no Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj/hub/order-summary-component-2PQvL1K7L). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas. 
 
-## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+<br>
 
-## Overview
+<h1 align="center"> Hub de desafio do componente de resumo do pedido </h1>
 
-### The challenge
+<p align="center">
+ <a href="# Sobre">Sobre</a>
+ |
+ <a href="#Conteúdo">Projeto realizado</a>
+ |
+ <a href="#Tecnologias estudadas">Tecnologias</a>
+ |
+ <a href="# Como abrir o projeto">Instalação e testes</a>
+ |
+ <a href="# Projetos semelhantes">Autor</a>
+</p>
 
-Users should be able to:
 
-- See hover states for interactive elements
+## Visão geral 
 
-### Screenshot
 
-![](./screenshot.jpg)
+### Captura de tela 
+<br>
+1. Versão Desktop / mobile
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+<h1 align="center">
+    <img alt="versão-desktop-mobile" title ="versão-desktop-mobile" src="print/principal.jpg" width="550px">
+</h1>
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+### Links 
 
-### Links
+- URL da solução: [https://github.com/yuryshadow/order-summary-component-main]
+- URL do site ativo : [https://yuryshadow.github.io/order-summary-component-main/]
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+## Meu processo 
 
-## My process
+### Construído com 
 
-### Built with
+- Marcação HTML5 semântica 
+- Propriedades personalizadas de CSS 
+- Flexbox 
+- Fluxo de trabalho para dispositivos móveis 
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+<br>
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+### O que aprendi 
 
-### What I learned
+Neste projeto pratiquei a utilização de flex box para ciar um card de qrcode, onde pude centralizar o mesmo no meio, e oloar em prática todo conteúdo teórico estudado nos meus estudos pessoais.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+<br>
 
-To see how you can add code snippets, see below:
+# Tecnologia utilizada
+Para a realização desse projeto utilizei as tecnologias:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Yuri-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Yuri-CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+</div>
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+<br> 
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+# Projetos semelhantes
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+<a href="https://github.com/yuryshadow/qr-code-component-main"> 1. Component qr-code </a>
+<br>
+<a href="https://github.com/yuryshadow/nft-preview-card-component-main"> 2. NFT - preview card component </a>
+<br>
 
-### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+# 
+Made with 🖥️ by YURI CARLOS ✌️ <a href="https://www.linkedin.com/in/yurisouza/">See my LinkedIn </a>
